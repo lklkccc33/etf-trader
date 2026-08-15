@@ -1,0 +1,19 @@
+# 감시 대상 서버 목록. 항목을 추가/삭제해도 코드 수정은 필요 없음
+# (모니터링 서버 재시작만 하면 반영됨).
+#
+# name: 로그/텔레그램 알림에 표시될 이름
+# health_url: GET 요청 시 200을 반환해야 정상으로 판단
+# systemd_service: `systemctl is-active`/`systemctl restart`에 쓰일 서비스명
+# enabled: false로 두면 감시 대상에서 제외 (목록에서 지우지 않고 잠시 끄고 싶을 때)
+
+targets:
+  - name: trading-bridge
+    health_url: http://localhost:8000/health
+    systemd_service: trading-bridge
+    enabled: true
+
+  # 운영서버가 만들어지면 아래 형식으로 추가
+  # - name: operations-server
+  #   health_url: http://localhost:8100/health
+  #   systemd_service: operations-server
+  #   enabled: true
