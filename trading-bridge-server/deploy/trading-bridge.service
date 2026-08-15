@@ -1,0 +1,19 @@
+[Unit]
+Description=Trading Bridge Server
+After=network.target
+
+[Service]
+Type=simple
+User={{USER}}
+WorkingDirectory={{APP_DIR}}
+EnvironmentFile={{APP_DIR}}/.env
+ExecStart={{APP_DIR}}/.venv/bin/uvicorn app.main:app --host 0.0.0.0 --port 8000
+Restart=always
+RestartSec=5
+
+# 워커를 여러 개 띄우면(--workers) 정기 리포트 스케줄러와 재전송 방지용
+# nonce 캐시가 프로세스마다 따로 동작해 중복 실행/보안 허점이 생김.
+# 반드시 워커 1개로 유지할 것.
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,368 @@
+2026-08-14 15:55:15 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 15:55:15 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 15:55:15 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 15:55:15 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 15:55:15 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 15:55:15 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 15:55:15 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 15:55:15 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 15:55:15 INFO apscheduler.scheduler Scheduler started
+2026-08-14 15:55:15 INFO app.scheduler scheduler started
+2026-08-14 15:55:15 INFO uvicorn.error Application startup complete.
+2026-08-14 15:55:15 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 15:55:17 INFO uvicorn.access 127.0.0.1:11797 - "HEAD / HTTP/1.1" 404
+2026-08-14 15:55:17 INFO uvicorn.access 127.0.0.1:11801 - "GET / HTTP/1.1" 404
+2026-08-14 15:55:17 INFO uvicorn.access 127.0.0.1:11801 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 15:55:50 INFO app.routers.sessions session created id=e1694230-2872-4eba-88a9-bf6473e1e7dd account=46e46b24-7c3a-4fab-b284-f8a10e583171 seed_money=1000000
+2026-08-14 15:55:50 INFO uvicorn.access 127.0.0.1:11812 - "POST /api/v1/sessions HTTP/1.1" 200
+2026-08-14 16:00:03 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:03 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:03 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:03 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:03 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 16:00:03 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:00:03 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:00:03 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:00:03 INFO apscheduler.scheduler Scheduler started
+2026-08-14 16:00:03 INFO app.scheduler scheduler started
+2026-08-14 16:00:03 INFO uvicorn.error Application startup complete.
+2026-08-14 16:00:03 INFO uvicorn.error Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+2026-08-14 16:00:04 INFO uvicorn.access 127.0.0.1:11856 - "GET /health HTTP/1.1" 200
+2026-08-14 16:00:55 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:55 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:55 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:55 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:00:55 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 16:00:55 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:00:55 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:00:55 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:00:55 INFO apscheduler.scheduler Scheduler started
+2026-08-14 16:00:55 INFO app.scheduler scheduler started
+2026-08-14 16:00:55 INFO uvicorn.error Application startup complete.
+2026-08-14 16:00:55 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 16:00:57 INFO uvicorn.access 127.0.0.1:11878 - "HEAD / HTTP/1.1" 404
+2026-08-14 16:00:58 INFO uvicorn.access 127.0.0.1:11882 - "GET / HTTP/1.1" 404
+2026-08-14 16:00:58 INFO uvicorn.access 127.0.0.1:11882 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 16:01:03 INFO uvicorn.access 127.0.0.1:11886 - "GET /health HTTP/1.1" 200
+2026-08-14 16:06:32 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:06:32 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:06:32 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:06:32 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:06:32 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 16:06:32 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:06:32 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:06:32 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:06:32 INFO apscheduler.scheduler Scheduler started
+2026-08-14 16:06:32 INFO app.scheduler scheduler started
+2026-08-14 16:06:32 INFO uvicorn.error Application startup complete.
+2026-08-14 16:06:32 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 16:06:34 INFO uvicorn.access 127.0.0.1:11976 - "HEAD / HTTP/1.1" 404
+2026-08-14 16:06:35 INFO uvicorn.access 127.0.0.1:11980 - "GET / HTTP/1.1" 404
+2026-08-14 16:06:35 INFO uvicorn.access 127.0.0.1:11980 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 16:07:23 INFO app.routers.sessions session created id=44435933-623a-4334-9301-b30475372a9c account=7ff6ed8f-d329-4398-939b-fcc7e4c1e199 seed_money=1000000
+2026-08-14 16:07:23 INFO uvicorn.access 127.0.0.1:11988 - "POST /api/v1/sessions HTTP/1.1" 200
+2026-08-14 16:07:23 ERROR app.routers.orders order submission failed unexpectedly
+Traceback (most recent call last):
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 116, in _get_unverified_token_data
+    data = base64.urlsafe_b64decode(token)
+  File "C:\Users\lklkc\AppData\Local\Python\pythoncore-3.14-64\Lib\base64.py", line 131, in urlsafe_b64decode
+    return b64decode(s)
+  File "C:\Users\lklkc\AppData\Local\Python\pythoncore-3.14-64\Lib\base64.py", line 85, in b64decode
+    return binascii.a2b_base64(s, strict_mode=validate)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+binascii.Error: Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\routers\orders.py", line 44, in create_order
+    client = KISClient(db, account)
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\kis_client.py", line 38, in __init__
+    self.appkey = decrypt(account.encrypted_appkey)
+                  ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\crypto.py", line 13, in decrypt
+    return _fernet.decrypt(value.encode()).decode()
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 87, in decrypt
+    timestamp, data = Fernet._get_unverified_token_data(token)
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 118, in _get_unverified_token_data
+    raise InvalidToken
+cryptography.fernet.InvalidToken
+2026-08-14 16:07:23 INFO uvicorn.access 127.0.0.1:11990 - "POST /api/v1/orders HTTP/1.1" 200
+2026-08-14 16:20:52 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:20:52 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:20:52 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:20:52 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:20:52 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 16:20:52 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:20:52 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:20:52 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:20:52 INFO apscheduler.scheduler Scheduler started
+2026-08-14 16:20:52 INFO app.scheduler scheduler started
+2026-08-14 16:20:52 INFO uvicorn.error Application startup complete.
+2026-08-14 16:20:52 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 16:20:55 INFO uvicorn.access 127.0.0.1:12132 - "GET / HTTP/1.1" 404
+2026-08-14 16:20:55 INFO uvicorn.access 127.0.0.1:12133 - "HEAD / HTTP/1.1" 404
+2026-08-14 16:20:55 INFO uvicorn.access 127.0.0.1:12132 - "GET / HTTP/1.1" 404
+2026-08-14 16:20:55 INFO uvicorn.access 127.0.0.1:12132 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 16:20:55 INFO uvicorn.access 127.0.0.1:12132 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 16:21:23 INFO app.routers.sessions session created id=60446bec-47a0-4aa0-8d36-e947fad3a7d0 account=4f53bc8f-e3e9-467a-aa82-f82a908e5358 seed_money=1000000
+2026-08-14 16:21:23 INFO uvicorn.access 127.0.0.1:12144 - "POST /api/v1/sessions HTTP/1.1" 200
+2026-08-14 16:21:23 ERROR app.routers.orders order submission failed unexpectedly
+Traceback (most recent call last):
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 116, in _get_unverified_token_data
+    data = base64.urlsafe_b64decode(token)
+  File "C:\Users\lklkc\AppData\Local\Python\pythoncore-3.14-64\Lib\base64.py", line 131, in urlsafe_b64decode
+    return b64decode(s)
+  File "C:\Users\lklkc\AppData\Local\Python\pythoncore-3.14-64\Lib\base64.py", line 85, in b64decode
+    return binascii.a2b_base64(s, strict_mode=validate)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+binascii.Error: Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\routers\orders.py", line 44, in create_order
+    client = KISClient(db, account)
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\kis_client.py", line 38, in __init__
+    self.appkey = decrypt(account.encrypted_appkey)
+                  ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\crypto.py", line 13, in decrypt
+    return _fernet.decrypt(value.encode()).decode()
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 87, in decrypt
+    timestamp, data = Fernet._get_unverified_token_data(token)
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 118, in _get_unverified_token_data
+    raise InvalidToken
+cryptography.fernet.InvalidToken
+2026-08-14 16:21:23 INFO uvicorn.access 127.0.0.1:12146 - "POST /api/v1/orders HTTP/1.1" 200
+2026-08-14 16:25:18 INFO app.routers.sessions session created id=5c7d1676-3520-4b91-93c6-9122ef40e16e account=4f53bc8f-e3e9-467a-aa82-f82a908e5358 seed_money=500000
+2026-08-14 16:25:18 INFO uvicorn.access 127.0.0.1:12163 - "POST /api/v1/sessions HTTP/1.1" 200
+2026-08-14 16:25:18 INFO uvicorn.access 127.0.0.1:12164 - "POST /api/v1/sessions HTTP/1.1" 401
+2026-08-14 16:38:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:38:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:38:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:38:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:38:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 16:38:09 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 16:38:09 INFO apscheduler.scheduler Added job "_reconcile_pending_fills" to job store "default"
+2026-08-14 16:38:09 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:38:09 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:38:09 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 16:38:09 INFO apscheduler.scheduler Scheduler started
+2026-08-14 16:38:09 INFO app.scheduler scheduler started
+2026-08-14 16:38:09 INFO uvicorn.error Application startup complete.
+2026-08-14 16:38:09 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 16:38:11 INFO uvicorn.access 127.0.0.1:12358 - "HEAD / HTTP/1.1" 404
+2026-08-14 16:38:12 INFO uvicorn.access 127.0.0.1:12362 - "GET / HTTP/1.1" 404
+2026-08-14 16:38:12 INFO uvicorn.access 127.0.0.1:12362 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 16:41:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:41:09 KST)" (scheduled at 2026-08-14 16:41:09.591477+09:00)
+2026-08-14 16:41:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 16:41:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:44:09 KST)" executed successfully
+2026-08-14 16:44:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:47:09 KST)" (scheduled at 2026-08-14 16:44:09.591477+09:00)
+2026-08-14 16:44:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 16:44:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:47:09 KST)" executed successfully
+2026-08-14 16:47:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:50:09 KST)" (scheduled at 2026-08-14 16:47:09.591477+09:00)
+2026-08-14 16:47:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 16:47:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:50:09 KST)" executed successfully
+2026-08-14 16:50:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:53:09 KST)" (scheduled at 2026-08-14 16:50:09.591477+09:00)
+2026-08-14 16:50:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 16:50:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:53:09 KST)" executed successfully
+2026-08-14 16:53:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:56:09 KST)" (scheduled at 2026-08-14 16:53:09.591477+09:00)
+2026-08-14 16:53:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 16:53:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:56:09 KST)" executed successfully
+2026-08-14 16:56:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:59:09 KST)" (scheduled at 2026-08-14 16:56:09.591477+09:00)
+2026-08-14 16:56:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 16:56:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 16:59:09 KST)" executed successfully
+2026-08-14 16:59:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:02:09 KST)" (scheduled at 2026-08-14 16:59:09.591477+09:00)
+2026-08-14 16:59:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 16:59:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:02:09 KST)" executed successfully
+2026-08-14 17:02:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:05:09 KST)" (scheduled at 2026-08-14 17:02:09.591477+09:00)
+2026-08-14 17:02:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:02:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:05:09 KST)" executed successfully
+2026-08-14 17:05:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:08:09 KST)" (scheduled at 2026-08-14 17:05:09.591477+09:00)
+2026-08-14 17:05:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:05:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:08:09 KST)" executed successfully
+2026-08-14 17:08:09 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:11:09 KST)" (scheduled at 2026-08-14 17:08:09.591477+09:00)
+2026-08-14 17:08:09 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:08:09 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:11:09 KST)" executed successfully
+2026-08-14 17:12:16 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:12:16 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:12:16 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:12:16 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:12:16 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:12:16 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:12:16 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 17:12:16 INFO apscheduler.scheduler Added job "_cleanup_used_nonces" to job store "default"
+2026-08-14 17:12:16 INFO apscheduler.scheduler Added job "_reconcile_pending_fills" to job store "default"
+2026-08-14 17:12:16 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 17:12:16 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 17:12:16 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 17:12:16 INFO apscheduler.scheduler Scheduler started
+2026-08-14 17:12:16 INFO app.scheduler scheduler started (lock acquired)
+2026-08-14 17:12:16 INFO uvicorn.error Application startup complete.
+2026-08-14 17:12:16 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 17:12:18 INFO uvicorn.access 127.0.0.1:12841 - "HEAD / HTTP/1.1" 404
+2026-08-14 17:12:19 INFO uvicorn.access 127.0.0.1:12845 - "GET / HTTP/1.1" 404
+2026-08-14 17:12:19 INFO uvicorn.access 127.0.0.1:12845 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 17:15:16 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:15:16 KST)" (scheduled at 2026-08-14 17:15:16.883289+09:00)
+2026-08-14 17:15:16 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:15:16 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:18:16 KST)" executed successfully
+2026-08-14 17:18:16 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:21:16 KST)" (scheduled at 2026-08-14 17:18:16.883289+09:00)
+2026-08-14 17:18:16 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:18:16 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:21:16 KST)" executed successfully
+2026-08-14 17:18:28 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:18:28 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:18:28 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:18:28 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:18:28 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:18:28 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 17:18:28 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 17:18:28 INFO apscheduler.scheduler Added job "_cleanup_used_nonces" to job store "default"
+2026-08-14 17:18:28 INFO apscheduler.scheduler Added job "_reconcile_pending_fills" to job store "default"
+2026-08-14 17:18:28 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 17:18:28 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 17:18:28 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 17:18:28 INFO apscheduler.scheduler Scheduler started
+2026-08-14 17:18:28 INFO app.scheduler scheduler started (lock acquired)
+2026-08-14 17:18:28 INFO uvicorn.error Application startup complete.
+2026-08-14 17:18:28 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 17:18:30 INFO uvicorn.access 127.0.0.1:12946 - "HEAD / HTTP/1.1" 404
+2026-08-14 17:18:30 INFO uvicorn.access 127.0.0.1:12950 - "GET / HTTP/1.1" 404
+2026-08-14 17:18:30 INFO uvicorn.access 127.0.0.1:12950 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 17:21:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:21:28 KST)" (scheduled at 2026-08-14 17:21:28.117209+09:00)
+2026-08-14 17:21:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:21:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:24:28 KST)" executed successfully
+2026-08-14 17:24:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:27:28 KST)" (scheduled at 2026-08-14 17:24:28.117209+09:00)
+2026-08-14 17:24:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:24:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:27:28 KST)" executed successfully
+2026-08-14 17:27:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:30:28 KST)" (scheduled at 2026-08-14 17:27:28.117209+09:00)
+2026-08-14 17:27:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:27:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:30:28 KST)" executed successfully
+2026-08-14 17:28:28 INFO apscheduler.executors.default Running job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 17:38:28 KST)" (scheduled at 2026-08-14 17:28:28.117072+09:00)
+2026-08-14 17:28:28 INFO apscheduler.executors.default Job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 17:38:28 KST)" executed successfully
+2026-08-14 17:30:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:33:28 KST)" (scheduled at 2026-08-14 17:30:28.117209+09:00)
+2026-08-14 17:30:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:30:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:33:28 KST)" executed successfully
+2026-08-14 17:33:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:36:28 KST)" (scheduled at 2026-08-14 17:33:28.117209+09:00)
+2026-08-14 17:33:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:33:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:36:28 KST)" executed successfully
+2026-08-14 17:36:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:39:28 KST)" (scheduled at 2026-08-14 17:36:28.117209+09:00)
+2026-08-14 17:36:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:36:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:39:28 KST)" executed successfully
+2026-08-14 17:38:28 INFO apscheduler.executors.default Running job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 17:48:28 KST)" (scheduled at 2026-08-14 17:38:28.117072+09:00)
+2026-08-14 17:38:28 INFO apscheduler.executors.default Job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 17:48:28 KST)" executed successfully
+2026-08-14 17:39:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:42:28 KST)" (scheduled at 2026-08-14 17:39:28.117209+09:00)
+2026-08-14 17:39:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:39:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:42:28 KST)" executed successfully
+2026-08-14 17:42:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:45:28 KST)" (scheduled at 2026-08-14 17:42:28.117209+09:00)
+2026-08-14 17:42:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:42:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:45:28 KST)" executed successfully
+2026-08-14 17:45:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:48:28 KST)" (scheduled at 2026-08-14 17:45:28.117209+09:00)
+2026-08-14 17:45:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:45:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:48:28 KST)" executed successfully
+2026-08-14 17:48:28 INFO apscheduler.executors.default Running job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 17:58:28 KST)" (scheduled at 2026-08-14 17:48:28.117072+09:00)
+2026-08-14 17:48:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:51:28 KST)" (scheduled at 2026-08-14 17:48:28.117209+09:00)
+2026-08-14 17:48:28 INFO apscheduler.executors.default Job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 17:58:28 KST)" executed successfully
+2026-08-14 17:48:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:48:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:51:28 KST)" executed successfully
+2026-08-14 17:51:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:54:28 KST)" (scheduled at 2026-08-14 17:51:28.117209+09:00)
+2026-08-14 17:51:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:51:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:54:28 KST)" executed successfully
+2026-08-14 17:54:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:57:28 KST)" (scheduled at 2026-08-14 17:54:28.117209+09:00)
+2026-08-14 17:54:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:54:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 17:57:28 KST)" executed successfully
+2026-08-14 17:57:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:00:28 KST)" (scheduled at 2026-08-14 17:57:28.117209+09:00)
+2026-08-14 17:57:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 17:57:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:00:28 KST)" executed successfully
+2026-08-14 17:58:28 INFO apscheduler.executors.default Running job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 18:08:28 KST)" (scheduled at 2026-08-14 17:58:28.117072+09:00)
+2026-08-14 17:58:28 INFO apscheduler.executors.default Job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 18:08:28 KST)" executed successfully
+2026-08-14 18:00:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:03:28 KST)" (scheduled at 2026-08-14 18:00:28.117209+09:00)
+2026-08-14 18:00:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:00:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:03:28 KST)" executed successfully
+2026-08-14 18:03:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:06:28 KST)" (scheduled at 2026-08-14 18:03:28.117209+09:00)
+2026-08-14 18:03:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:03:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:06:28 KST)" executed successfully
+2026-08-14 18:06:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:09:28 KST)" (scheduled at 2026-08-14 18:06:28.117209+09:00)
+2026-08-14 18:06:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:06:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:09:28 KST)" executed successfully
+2026-08-14 18:08:28 INFO apscheduler.executors.default Running job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 18:18:28 KST)" (scheduled at 2026-08-14 18:08:28.117072+09:00)
+2026-08-14 18:08:28 INFO apscheduler.executors.default Job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 18:18:28 KST)" executed successfully
+2026-08-14 18:09:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:12:28 KST)" (scheduled at 2026-08-14 18:09:28.117209+09:00)
+2026-08-14 18:09:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:09:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:12:28 KST)" executed successfully
+2026-08-14 18:12:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:15:28 KST)" (scheduled at 2026-08-14 18:12:28.117209+09:00)
+2026-08-14 18:12:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:12:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:15:28 KST)" executed successfully
+2026-08-14 18:15:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:18:28 KST)" (scheduled at 2026-08-14 18:15:28.117209+09:00)
+2026-08-14 18:15:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:15:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:18:28 KST)" executed successfully
+2026-08-14 18:18:28 INFO apscheduler.executors.default Running job "_heartbeat (trigger: interval[1:00:00], next run at: 2026-08-14 19:18:28 KST)" (scheduled at 2026-08-14 18:18:28.116808+09:00)
+2026-08-14 18:18:28 INFO apscheduler.executors.default Running job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 18:28:28 KST)" (scheduled at 2026-08-14 18:18:28.117072+09:00)
+2026-08-14 18:18:28 INFO app.scheduler heartbeat ok uptime=1:00:00.051145
+2026-08-14 18:18:28 INFO apscheduler.executors.default Job "_heartbeat (trigger: interval[1:00:00], next run at: 2026-08-14 19:18:28 KST)" executed successfully
+2026-08-14 18:18:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:18:28 KST)" (scheduled at 2026-08-14 18:18:28.117209+09:00)
+2026-08-14 18:18:28 INFO apscheduler.executors.default Job "_cleanup_used_nonces (trigger: interval[0:10:00], next run at: 2026-08-14 18:28:28 KST)" executed successfully
+2026-08-14 18:18:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:18:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:21:28 KST)" executed successfully
+2026-08-14 18:21:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:24:28 KST)" (scheduled at 2026-08-14 18:21:28.117209+09:00)
+2026-08-14 18:21:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:21:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:24:28 KST)" executed successfully
+2026-08-14 18:24:28 INFO apscheduler.executors.default Running job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:27:28 KST)" (scheduled at 2026-08-14 18:24:28.117209+09:00)
+2026-08-14 18:24:28 INFO app.scheduler pending fill reconcile done checked=0
+2026-08-14 18:24:28 INFO apscheduler.executors.default Job "_reconcile_pending_fills (trigger: interval[0:03:00], next run at: 2026-08-14 18:27:28 KST)" executed successfully
+2026-08-14 18:27:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 18:27:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 18:27:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 18:27:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 18:27:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 18:27:09 INFO apscheduler.scheduler Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-14 18:27:09 INFO apscheduler.scheduler Added job "_heartbeat" to job store "default"
+2026-08-14 18:27:09 INFO apscheduler.scheduler Added job "_cleanup_used_nonces" to job store "default"
+2026-08-14 18:27:09 INFO apscheduler.scheduler Added job "_reconcile_pending_fills" to job store "default"
+2026-08-14 18:27:09 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 18:27:09 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 18:27:09 INFO apscheduler.scheduler Added job "_run_periodic_report" to job store "default"
+2026-08-14 18:27:09 INFO apscheduler.scheduler Scheduler started
+2026-08-14 18:27:09 INFO app.scheduler scheduler started (lock acquired)
+2026-08-14 18:27:09 INFO uvicorn.error Application startup complete.
+2026-08-14 18:27:09 INFO uvicorn.error Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-08-14 18:27:10 INFO uvicorn.access 127.0.0.1:13494 - "HEAD / HTTP/1.1" 404
+2026-08-14 18:27:11 INFO uvicorn.access 127.0.0.1:13498 - "GET / HTTP/1.1" 404
+2026-08-14 18:27:11 INFO uvicorn.access 127.0.0.1:13498 - "GET /favicon.ico HTTP/1.1" 404
+2026-08-14 18:28:12 INFO uvicorn.access 127.0.0.1:13504 - "GET /health HTTP/1.1" 200
+2026-08-14 18:28:13 INFO app.routers.sessions session created id=9ee5ce9b-a017-4210-bf32-aa81d3fc9b38 account=79ad2371-3183-4c34-a446-137fbfebb4bf seed_money=1000000
+2026-08-14 18:28:13 INFO uvicorn.access 127.0.0.1:13506 - "POST /api/v1/sessions HTTP/1.1" 200
+2026-08-14 18:28:13 ERROR app.routers.orders order submission failed unexpectedly
+Traceback (most recent call last):
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 116, in _get_unverified_token_data
+    data = base64.urlsafe_b64decode(token)
+  File "C:\Users\lklkc\AppData\Local\Python\pythoncore-3.14-64\Lib\base64.py", line 131, in urlsafe_b64decode
+    return b64decode(s)
+  File "C:\Users\lklkc\AppData\Local\Python\pythoncore-3.14-64\Lib\base64.py", line 85, in b64decode
+    return binascii.a2b_base64(s, strict_mode=validate)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+binascii.Error: Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\routers\orders.py", line 86, in create_order
+    client = get_exchange_client(db, account)
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\exchanges\registry.py", line 16, in get_exchange_client
+    return client_cls(db, account)
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\exchanges\kis.py", line 37, in __init__
+    self.appkey = decrypt(account.encrypted_appkey)
+                  ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\app\crypto.py", line 13, in decrypt
+    return _fernet.decrypt(value.encode()).decode()
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 87, in decrypt
+    timestamp, data = Fernet._get_unverified_token_data(token)
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\lklkc\OneDrive\바탕 화면\클로드\trading-bridge-server\.venv\Lib\site-packages\cryptography\fernet.py", line 118, in _get_unverified_token_data
+    raise InvalidToken
+cryptography.fernet.InvalidToken
+2026-08-14 18:28:13 INFO uvicorn.access 127.0.0.1:13508 - "POST /api/v1/orders HTTP/1.1" 200
