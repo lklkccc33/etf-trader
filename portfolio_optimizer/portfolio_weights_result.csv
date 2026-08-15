@@ -1,0 +1,6 @@
+﻿ticker,name,individual_return,individual_volatility,weight_abs_min,weight_sharpe_max
+DBC,원자재,75.77,18.77,0.0,0.2
+GLD,금,117.36,15.62,0.2,0.4
+SPY,미국 대형주(S&P500),98.08,17.11,0.4,0.4
+TLT,미국 장기국채,-35.3,16.07,0.4,0.0
+VNQ,미국 리츠,29.66,18.85,0.0,0.0

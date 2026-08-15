@@ -1,0 +1,6 @@
+﻿benchmark_index,benchmark_return,abs_min_return,diff_abs_vs_bm,abs_min_sharpe,sharpe_max_return,diff_sharpe_max_vs_bm,sharpe_max_sharpe
+Dow Jones,59.02,33.92,-25.1,0.555,108.16,49.13,1.346
+Nasdaq Composite,83.03,33.92,-49.11,0.555,108.16,25.13,1.346
+S&P 500,84.98,33.92,-51.06,0.555,108.16,23.18,1.346
+Russell 2000,27.54,33.92,6.38,0.555,108.16,80.61,1.346
+Nasdaq 100,98.9,33.92,-64.98,0.555,108.16,9.26,1.346
